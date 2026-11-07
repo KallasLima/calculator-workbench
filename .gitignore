@@ -1,0 +1,12 @@
+node_modules/
+dist/
+coverage/
+backend/bin/
+*.test
+*.exe
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
